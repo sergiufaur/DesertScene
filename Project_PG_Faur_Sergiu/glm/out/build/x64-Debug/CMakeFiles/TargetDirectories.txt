@@ -1,0 +1,5 @@
+C:/Fac/AN3/PG/Lab1/glm/out/build/x64-Debug/CMakeFiles/install/local.dir
+C:/Fac/AN3/PG/Lab1/glm/out/build/x64-Debug/CMakeFiles/install.dir
+C:/Fac/AN3/PG/Lab1/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Fac/AN3/PG/Lab1/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Fac/AN3/PG/Lab1/glm/out/build/x64-Debug/CMakeFiles/list_install_components.dir

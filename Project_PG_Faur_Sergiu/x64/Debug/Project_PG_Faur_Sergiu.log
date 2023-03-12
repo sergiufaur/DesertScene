@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\AN_3\SEM_1\PG\Project_PG_Faur_Sergiu\Project_PG_Faur_Sergiu\main.cpp(145,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\SEM_1\PG\Project_PG_Faur_Sergiu\Project_PG_Faur_Sergiu\main.cpp(146,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AN_3\SEM_1\PG\Project_PG_Faur_Sergiu\Project_PG_Faur_Sergiu\main.cpp(302,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Project_PG_Faur_Sergiu.vcxproj -> D:\AN_3\SEM_1\PG\Project_PG_Faur_Sergiu\x64\Debug\Project_PG_Faur_Sergiu.exe
